@@ -9,3 +9,6 @@ console.log(NoAngkot)
 for(var NoAngkot; NoAngkot <=jmlAngkot; NoAngkot++ ){
 	console.log('Angkot No.' + NoAngkot +' sedang tidak beroperasi')
 }
+
+
+
