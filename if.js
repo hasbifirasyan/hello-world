@@ -1,7 +1,8 @@
-var angka =21;
-if( angka ===1){
-    alert('anda memasukkan angka 1')
-}
-else {
-    alert('coba lagi')
+var angka = prompt('masukan angka: ')
+if (angka == 1){
+    alert('anda memasukkan angka 1');
+} else if( angka == 2) {
+    alert('anda memasukkan angka 2');
+}else{
+    alert('angka yang anda masukkan salah!' )
 }
